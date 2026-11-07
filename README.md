@@ -1,8 +1,8 @@
 # YAML convertor
 
-[![License](https://img.shields.io/github/license/KeikoAyano/Jyaml?color=FFEBA5)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
-![Size](https://img.shields.io/github/repo-size/KeikoAyano/Jyaml?label=size&color=FFEBA5)
-[![Download Count](https://img.shields.io/github/downloads/KeikoAyano/Jyaml/total?color=FFEBA5)](https://github.com/mirbyte/IconPull/releases/latest)
+[![License](https://img.shields.io/github/license/KeikoAyano/Jyaml?color=FF4040)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
+![Size](https://img.shields.io/github/repo-size/KeikoAyano/Jyaml?label=size&color=FF4040)
+[![Download Count](https://img.shields.io/github/downloads/KeikoAyano/Jyaml/total?color=FF4040)](https://github.com/mirbyte/IconPull/releases/latest)
 
 Convert YAML to JSON
 
