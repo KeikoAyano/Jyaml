@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/KeikoAyano/Jyaml?color=FF4040)](https://raw.githubusercontent.com/mirbyte/IconPull/main/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/KeikoAyano/Jyaml?label=size&color=FF4040)
 [![Download Count](https://img.shields.io/github/downloads/KeikoAyano/Jyaml/total?color=FF4040)](https://github.com/mirbyte/IconPull/releases/latest)
+<a href="https://rubygems.org/gems/jyaml"><img src="https://img.shields.io/gem/dtv/jyaml"></a>
 
 Convert YAML to JSON
 
